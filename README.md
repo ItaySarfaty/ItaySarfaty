@@ -26,6 +26,7 @@
 | React Js | 70% |
 | Docker | 60% |
 | Flask | 60% |
+| Neo4j | 50% |
 | PyTest | TBD |
 
 # Current Project
