@@ -5,7 +5,7 @@
 - 💻 B.S. Computer Science 
 - 🖌 Full Stack Developer
 - 🤝 Product Oriented
-- 🥩 I love steak 
+- 🥩 I Love Steak 
 
 # Languegaes
 | Language | Proficiency |
