@@ -10,7 +10,7 @@
 # Languegaes
 | Language | Proficiency |
 | --- | ----------- |
-| Python | 100% |
+| Python | 90% |
 | JavaScript | 90% |
 | Java | 80% |
 | HTML | 70% |
