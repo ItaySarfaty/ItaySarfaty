@@ -1,11 +1,11 @@
 # About Me
 **Hi I’m Itay 👋,**
 
-- 🎓 Binghamton University 22’ 
-- 💻 B.S. Computer Science 
+- 🎓 Binghamton University '22
+- 💻 B.S. Computer Science
 - 🖌 Full Stack Developer
 - 🤝 Product Oriented
-- 🥩 I Love Steak 
+- 🥩 I Love Steak
 
 # Languegaes
 | Language | Proficiency |
@@ -17,7 +17,7 @@
 | CSS | 70% |
 | Dart | 60% |
 
-**Familiar with:** C, C++, Haskel, Prolog
+**Experiance with:** C, C++, Haskel, Prolog
 
 # Frameworks & Libraries
 | Name | Proficiency |
@@ -28,6 +28,13 @@
 | Flask | 60% |
 | Neo4j | 50% |
 | PyTest | TBD |
+
+# Design Tools
+| Adobe | Proficiency |
+| --- | ----------- |
+| XD | 80% |
+| Photoshop | 70% |
+| Illustrator | 60% |
 
 # Current Project
 **Peoples Collection** - A shoping platorfom
