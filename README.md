@@ -3,8 +3,8 @@
 
 - 🎓 Binghamton University '22
 - 💻 B.S. Computer Science
-- 🖌 Full Stack Developer
-- 🤝 Product Oriented
+- 🤝 Full Stack Developer
+- 🎢 Product Oriented
 - 🥩 I Love Steak
 
 # Languegaes
