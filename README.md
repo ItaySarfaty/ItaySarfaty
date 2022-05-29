@@ -7,35 +7,6 @@
 - 🎢 Product Oriented
 - 🥩 I Love Steak
 
-# Languegaes
-| Language | Proficiency |
-| --- | ----------- |
-| Python | 90% |
-| JavaScript | 90% |
-| Java | 80% |
-| HTML | 70% |
-| CSS | 70% |
-| Dart | 60% |
-
-**Experiance with:** C, C++, Haskel, Prolog
-
-# Frameworks & Libraries
-| Name | Proficiency |
-| --- | ----------- |
-| Flutter | 80% |
-| React Js | 70% |
-| Docker | 60% |
-| Flask | 60% |
-| Neo4j | 50% |
-| PyTest | TBD |
-
-# Design Tools
-| Adobe | Proficiency |
-| --- | ----------- |
-| XD | 80% |
-| Photoshop | 70% |
-| Illustrator | 60% |
-
 # Current Project
 **Peoples Collection** - A shoping platorfom
  - Dart
