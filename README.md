@@ -1,10 +1,10 @@
 # About Me
 **Hi I’m Itay 👋,**
 
-- 🎓 Binghamton University '22
-- 💻 B.S. Computer Science
-- 🤝 Full Stack Developer
 - 🎢 Product Oriented
+- 🤝 Full Stack Developer
+- 💻 B.S. Computer Science
+- 🎓 Binghamton University '22
 - 🥩 I Love Steak
 
 # Current Project
