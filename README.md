@@ -5,7 +5,6 @@
 - 🤝 Full Stack Developer
 - 💻 B.S. Computer Science
 - 🎓 Binghamton University '22
-- 🥩 I Love Steak
 
 # Current Project
 **Peoples Collection** - A shoping platorfom
