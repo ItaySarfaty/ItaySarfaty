@@ -7,9 +7,9 @@
 - 🎓 Binghamton University '22
 
 # Current Project
-**Peoples Collection** - A shoping platorfom
- - Dart
- - Flutter
+**Personal Website** - Most trafic will be through word of mouth marketing. Designed to generate leads.
+ - React
+ - Type Script
 
 # Email Me!
 itaysarfaty@gmail.com 
