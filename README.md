@@ -7,9 +7,10 @@
 - 🎓 Binghamton University '22
 
 # Current Project
-**Personal Website** - Most trafic will be through word of mouth marketing. Designed to generate leads.
- - React
- - Type Script
+**Landing Page** - For a kitchen company with the goal of generating leads.
+ - html/css/js
+ - Hosted on aws
+ - Uses Pipedrive API
 
 # Email Me!
 itaysarfaty@gmail.com 
