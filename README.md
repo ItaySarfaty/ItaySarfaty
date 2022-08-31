@@ -6,7 +6,8 @@
 
 # Current Project
 **Landing Page** - For a kitchen company with the goal of generating leads.
- - html/css/js
+ - html/css/js/react
+ - Static site generation
  - Hosted on aws
  - Uses Pipedrive API
 
