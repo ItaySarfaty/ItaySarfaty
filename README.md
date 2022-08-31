@@ -9,7 +9,7 @@
  - html/css/js/react
  - Static site generation
  - Hosted on aws
- - Uses Pipedrive API
+ - Integrates Pipedrive API
 
 # Email Me!
 itaysarfaty@gmail.com 
