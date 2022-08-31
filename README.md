@@ -1,4 +1,4 @@
-# I’m Itay 👋
+# Hi 👋
 - 🎢 Product Oriented
 - 🤝 Full Stack Developer
 - 💻 B.S. Computer Science
