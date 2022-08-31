@@ -1,4 +1,4 @@
-# Hi 👋
+# 👋 Hi,
 - 🎢 Product Oriented
 - 🤝 Full Stack Developer
 - 💻 B.S. Computer Science
