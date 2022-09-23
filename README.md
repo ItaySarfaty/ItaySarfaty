@@ -4,13 +4,6 @@
 - 💻 B.S. Computer Science
 - 🎓 Binghamton University '22
 
-# Current Project
-**Landing Page** - For a kitchen company with the goal of generating leads.
- - html/css/js/react
- - Static site generation
- - Hosted on aws
- - Integrates Pipedrive API
-
 # Email Me!
 itaysarfaty@gmail.com 
 
