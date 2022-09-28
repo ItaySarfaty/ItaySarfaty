@@ -2,7 +2,7 @@
 - 🎢 Product Oriented
 - 💻 Software Engineer
 - 🎓 Binghamton University '22
-- - 📝 B.S. Computer Science
+- 📝 B.S. Computer Science
 
 
 # Email Me!
