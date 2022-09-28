@@ -1,4 +1,4 @@
-# Hi  👋 , I'm Itay
+# My name is Itay 👋
 - 💻 Software Engineer
 - 🎓 Binghamton University '22
 - 📝 B.S. Computer Science
