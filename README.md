@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Itay
 - 🎢 Product Oriented
-- 🤝 Full Stack Developer
+- 🤝 Software Engineer
 - 💻 B.S. Computer Science
 - 🎓 Binghamton University '22
 
