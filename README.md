@@ -3,6 +3,9 @@
 - 🎓 Binghamton University '22
 - 📝 B.S. Computer Science
 
+# Portfolio Website
+[Click Here](https://itaysarfaty.com)
+
 
 # Email Me!
 itaysarfaty@gmail.com 
