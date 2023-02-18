@@ -6,9 +6,12 @@ As a UI/UX developer, I have a keen passion for designing intuitive applications
 
 I know the importance of developer experience. Modular, easy-to-understand code is essential for project success. Keeping this in mind, I strive to write well-structured and efficient code to promote collaboration and enable scalability.
 
+# My website!
+[itaysarfaty.com](https://itaysarfaty.com)
 
-# Email Me!
+# Email
 itaysarfaty@gmail.com 
+
 
 <!--
 **ItaySarfaty/ItaySarfaty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
