@@ -1,7 +1,11 @@
-# My name is Itay 👋
-- 💻 Software Engineer
-- 🎓 Binghamton University '22
-- 📝 B.S. Computer Science
+# 𝗙𝗮𝗻𝗰𝘆 𝘀𝗲𝗲𝗶𝗻𝗴 𝘆𝗼𝘂 𝗵𝗲𝗿𝗲 👋🏼
+
+My name is Itay,
+
+As a UI/UX developer, I have a keen passion for designing intuitive applications utilizing a human-centric approach. 
+
+I know the importance of developer experience. Modular, easy-to-understand code is essential for project success. Keeping this in mind, I strive to write well-structured and efficient code to promote collaboration and enable scalability.
+
 
 # Email Me!
 itaysarfaty@gmail.com 
