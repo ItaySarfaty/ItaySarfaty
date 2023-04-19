@@ -4,8 +4,6 @@ My name is Itay,
 
 As a UI/UX developer, I have a keen passion for designing intuitive applications utilizing a human-centric approach. 
 
-I know the importance of developer experience. Modular, easy-to-understand code is essential for project success. Keeping this in mind, I strive to write well-structured and efficient code to promote collaboration and enable scalability.
-
 # My website!
 [itaysarfaty.com](https://itaysarfaty.com)
 
